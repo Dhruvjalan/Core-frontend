@@ -6,7 +6,7 @@ This repository contains the React-based frontend for the Core Project, a high-p
 
 ## 🚀 Live Demo & Access
 
-* **Public URL:** [http://13.63.165.243/core-frontend/dashboard](http://13.63.165.243/core-frontend/dashboard)
+* **Public URL:** [http://13.63.165.243/core-frontend/dashboard](http://13.63.165.243/core-frontend/login)
 * **Demo Video:** [Watch the Walkthrough](https://drive.google.com/file/d/1SUBR7g88A8HfmBhAYl5qPmWmlnayY-ws/view?usp=sharing)
 
 ---
