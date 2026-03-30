@@ -25,4 +25,3 @@ dist-ssr
 .env
 .ec2frontend.pem
 *.pem
-# .smoke-test.sh
